@@ -19,4 +19,4 @@
 
 # Contributor
 
-[Yatox](https://github.com/Yatox18)
+- [Yatox](https://github.com/Yatox18)
