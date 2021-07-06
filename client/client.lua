@@ -111,7 +111,7 @@ end
 
 
 
-Keys.Register('F3','F3', 'Menu Exemple ', function()
+RegisterCommand("spotify", function()
     RefreshPlayerMusic()
     OpenSpotifyMenu()
 end)
