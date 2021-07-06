@@ -17,6 +17,6 @@
 # Preview
 - https://streamable.com/0thg49
 
-# Contributors
+# Contributor
 
 [Yatox](https://github.com/Yatox18)
