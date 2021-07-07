@@ -5,7 +5,7 @@
 - Le menu s'ouvre avec la commande /spotify
 - Simple d'utilisation
 - Optimisation 0.00 ms
-- Lib : RageUI
+- Lib : RageUI et https://github.com/Xogy/xsound
 - Pour tout support AigleIsBack#7053 & Yatox#3203
 
 # EN
@@ -13,7 +13,7 @@
 - You can open this menu with command /spotify
 - Easily utilisation
 - Optimization 0.00 ms
-- Lib: RageUI
+- Lib: RageUI and https://github.com/Xogy/xsound
 - For any question AigleIsBack#7053 & Yatox#3203
 
 # Preview
